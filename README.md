@@ -1,3 +1,15 @@
+# eBay Clone
+
+eBay clone web application.
+
+<img width="1457" alt="ebay-clone-screenshot" src="https://github.com/barisozmen/ebay-clone/assets/14996155/e986fff2-5941-456a-bf47-919b3f230ab1">
+
+
+
+Mostly copied from https://github.com/John-Weeks-Dev/ebay-clone
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
